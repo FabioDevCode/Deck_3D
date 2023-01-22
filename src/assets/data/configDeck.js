@@ -72,4 +72,40 @@ export const deck_config = [
         type_card: ["arme"],
         draws: ["."]
     },
+    {
+        name: "Neutre",
+        directory: "neutre",
+        desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        deck_3d: "./3d/deck_3D.png",
+        background: "arme_bg.jpeg",
+        css_card: "arme",
+        re_use: false,
+        nb_card: 6,
+        type_card: ["arme"],
+        draws: ["."]
+    },
+    {
+        name: "Neutre",
+        directory: "neutre",
+        desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        deck_3d: "./3d/deck_3D.png",
+        background: "arme_bg.jpeg",
+        css_card: "arme",
+        re_use: false,
+        nb_card: 6,
+        type_card: ["arme"],
+        draws: ["."]
+    },
+    {
+        name: "Neutre",
+        directory: "neutre",
+        desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        deck_3d: "./3d/deck_3D.png",
+        background: "arme_bg.jpeg",
+        css_card: "arme",
+        re_use: false,
+        nb_card: 6,
+        type_card: ["arme"],
+        draws: ["."]
+    },
 ];
