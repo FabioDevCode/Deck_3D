@@ -56,7 +56,7 @@
 	}
 
 	section {
-		border-radius: 8px;
+		border-radius: 8px 8px 0 0;
 		max-width: 1000px;
 		min-width: 320px;
 		width: 100%;
@@ -88,11 +88,12 @@
 		cursor: pointer;
 		border-radius: 5px;
 		background-color: whitesmoke;
-		height: 300px;
+		height: 330px;
 		width: 240px;
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+		justify-content: center;
 		padding: 15px;
 		margin: 0 0 5px 0;
 	}
